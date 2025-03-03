@@ -2,9 +2,6 @@
 
 This project is a simple implementation of a "Secret Santa" game, where users can add names to a list, randomly draw a friend from the list, and remove that friend once they have been drawn. It is developed in JavaScript and HTML and can be run directly in a browser.
 
-![secret santa game](https://github.com/user-attachments/assets/1fa51ed2-da03-4aa7-a105-a6774d3e5ddc)
-
-
 ## Description
 
 The project allows users to:
@@ -24,7 +21,7 @@ The project allows users to:
 1. Clone this repository or download the code to your local machine.
    
    ```bash
-   git clone https://github.com/straker/secret-santa-challenge.git
+   git clone https://github.com/strakerbit/secret-santa-game.git
    ```
 2. Open the `index.html` file in a web browser to run the application.
 
